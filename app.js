@@ -7,3 +7,7 @@ if (numPets === numKeysOnPiano) {
   } else {
     console.log('No luck')
   }
+
+for (letter of namePets) {
+    console.log(letter)
+}
